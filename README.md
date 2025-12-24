@@ -37,3 +37,4 @@ The system is divided into two main modules: **Admin** and **Student**.
 *   **Data Persistence**: Records are saved in `.txt` files.
 *   **Deletion Logic**: Deleting a record replaces it with dashes (`-`) to maintain file alignment without expensive file rewrite operations.
 *   **Input Format**: inputs are processed and stored with a `|` delimiter.
+.
